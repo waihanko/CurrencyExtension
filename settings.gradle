@@ -1,0 +1,3 @@
+rootProject.name='CurrencyExtension'
+include ':app'
+include ':app:mcextension'
