@@ -18,3 +18,6 @@ dependencies
 	implementation 'com.github.waihanko:MCFormatter:0.0.1'
 }
   ```
+
+## Usage
+String result = MCExtension.GetMCExtension(integerValue)
